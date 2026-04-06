@@ -14,12 +14,9 @@ AI systems, quantitative finance, and high-performance computing.
 ## Profile
 
 - Year 1 Computer Engineering undergraduate at the College of Computing and Data Science, Nanyang Technological University.
-- Developed `U2INVEST`, a financial intelligence platform.
-- 2nd Place in the OpenAI Track and Silver Award Winner at Deep Learning Week Hackathon 2026.
-- Participated in the 2025 SAP-NTU Hackathon (Semi-Finalist), 2026 SCDS TechFest Hackathon, and 2026 Jane Street Estimathon.
 - Particularly enthusiastic about algorithm design, Transformer models, NLP, computer vision, CNNs, and RNNs.
 - Also interested in algorithmic trading, quantitative finance, fintech, computer graphics, 3D vision, neural rendering, and GPU/CUDA-related computing.
-- Actively seeking research and internship opportunities in AI, HPC, and quantitative or fintech-oriented engineering.
+- Actively seeking research and internship opportunities in AI/ML, HPC, CV and quantitative or fintech-oriented engineering.
 
 ## Tech Stack
 
