@@ -24,8 +24,7 @@ My current interests include algorithm design, Transformer models, NLP, computer
 ## GitHub Stats
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDasbootU9607&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=2E3440&logo=github" alt="Public repositories badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDasbootU9607&query=%24.followers&label=Followers&style=flat-square&color=4C566A&logo=github" alt="Followers badge" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DasbootU9607&theme=nord_bright" alt="GitHub stats card" />
 </p>
 
 ## Tech Stack
