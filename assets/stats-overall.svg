@@ -1,41 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="200" viewBox="0 0 360 200">
   <style>
     text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
-    .title { fill: #3b4252; font-size: 22px; font-weight: 500; }
-    .label { fill: #2e3440; font-size: 14px; }
-    .value { fill: #2e3440; font-size: 14px; font-weight: 600; }
+    .title { fill: #3b4252; font-size: 21px; font-weight: 500; }
+    .label { fill: #2e3440; font-size: 13px; }
+    .value { fill: #2e3440; font-size: 15px; font-weight: 600; }
     .icon { fill: #8fbcbb; }
   </style>
-  <rect x="1" y="1" width="338" height="198" rx="6" ry="6" fill="#eceff4" stroke="#e5e9f0" />
+  <rect x="1" y="1" width="358" height="198" rx="6" ry="6" fill="#eceff4" stroke="#e5e9f0" />
   <text x="24" y="38" class="title">Overall</text>
   <g transform="translate(24,58)">
     <g transform="translate(0,0)">
       <circle cx="7" cy="7" r="6" class="icon" />
-      <text x="22" y="11" class="label">Public Repositories</text>
-      <text x="190" y="11" text-anchor="end" class="value">9</text>
+      <text x="22" y="11" class="label">Public Repos</text>
+      <text x="224" y="11" text-anchor="end" class="value">9</text>
     </g>
     <g transform="translate(0,26)">
       <circle cx="7" cy="7" r="6" class="icon" />
-      <text x="22" y="11" class="label">Active Repositories</text>
-      <text x="190" y="11" text-anchor="end" class="value">9</text>
+      <text x="22" y="11" class="label">Active Repos</text>
+      <text x="224" y="11" text-anchor="end" class="value">9</text>
     </g>
     <g transform="translate(0,52)">
       <circle cx="7" cy="7" r="6" class="icon" />
       <text x="22" y="11" class="label">Total Stars</text>
-      <text x="190" y="11" text-anchor="end" class="value">6</text>
+      <text x="224" y="11" text-anchor="end" class="value">6</text>
     </g>
     <g transform="translate(0,78)">
       <circle cx="7" cy="7" r="6" class="icon" />
       <text x="22" y="11" class="label">Total Commits</text>
-      <text x="190" y="11" text-anchor="end" class="value">142</text>
+      <text x="224" y="11" text-anchor="end" class="value">142</text>
     </g>
     <g transform="translate(0,104)">
       <circle cx="7" cy="7" r="6" class="icon" />
-      <text x="22" y="11" class="label">Contributed Repositories</text>
-      <text x="190" y="11" text-anchor="end" class="value">10</text>
+      <text x="22" y="11" class="label">Contributed Repos</text>
+      <text x="224" y="11" text-anchor="end" class="value">10</text>
     </g>
   </g>
-  <g transform="translate(272,74) scale(4.5)" class="icon">
+  <g transform="translate(286,76) scale(3.85)" class="icon">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
   </g>
 </svg>
