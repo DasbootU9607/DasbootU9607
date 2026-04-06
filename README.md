@@ -23,32 +23,10 @@ My current interests include algorithm design, Transformer models, NLP, computer
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Overall</strong><br />
-      <sub>Portfolio snapshot</sub><br /><br />
-      <table>
-        <tr><td>Public repositories</td><td align="right"><code>9</code></td></tr>
-        <tr><td>Active repositories</td><td align="right"><code>9</code></td></tr>
-        <tr><td>Total stars</td><td align="right"><code>6</code></td></tr>
-        <tr><td>Total commits</td><td align="right"><code>142</code></td></tr>
-        <tr><td>Contributed repositories</td><td align="right"><code>10</code></td></tr>
-      </table>
-    </td>
-    <td valign="top" width="50%">
-      <strong>2026 Activity</strong><br />
-      <sub>Year-to-date snapshot</sub><br /><br />
-      <table>
-        <tr><td>Repositories created</td><td align="right"><code>7</code></td></tr>
-        <tr><td>Active repositories</td><td align="right"><code>7</code></td></tr>
-        <tr><td>Commits</td><td align="right"><code>124</code></td></tr>
-        <tr><td>Contributed repositories</td><td align="right"><code>8</code></td></tr>
-        <tr><td>Project stars</td><td align="right"><code>6</code></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/stats-overall.svg" width="48%" alt="Overall GitHub stats card" />
+  <img src="./assets/stats-2026.svg" width="48%" alt="2026 GitHub stats card" />
+</p>
 
 ## Tech Stack
 
