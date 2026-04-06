@@ -17,7 +17,7 @@ AI/ML(AGI, Infra, MLLM), Quantitative Finance, HPC, CV, and Computer Graphics.
 
 Year 1 Computer Engineering undergraduate at Nanyang Technological University's College of Computing and Data Science, with a strong interest in AI systems, quantitative finance, and high-performance computing.
 
-I developed `U2INVEST`, a financial intelligence platform; 'PillowTalk', an Andriod Digital Wellbeing APP, and have participated in Deep Learning Week Hackathon 2026 (`2nd Place - OpenAI Track`, `Silver Award`), SAP-NTU Hackathon 2025 (`Semi-Finalist`), SCDS TechFest Hackathon 2026, and the 2026 Jane Street Estimathon.
+I developed `U2INVEST`, a financial intelligence platform; `PillowTalk`, an Andriod Digital Wellbeing APP, and have participated in Deep Learning Week Hackathon 2026 (`2nd Place - OpenAI Track`, `Silver Award`), SAP-NTU Hackathon 2025 (`Semi-Finalist`), SCDS TechFest Hackathon 2026, and the 2026 Jane Street Estimathon.
 
 My current interests include algorithm design, Transformer models, NLP, computer vision, CNNs, RNNs, algorithmic trading, fintech, computer graphics, 3D vision, neural rendering, and GPU/CUDA-related computing.
 
