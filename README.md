@@ -1,4 +1,4 @@
-                                                                                                  # DasbootU9607
+# DasbootU9607
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-5E81AC?style=for-the-badge" alt="Open to research and internships badge" />
