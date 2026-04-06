@@ -23,9 +23,26 @@ My current interests include algorithm design, Transformer models, NLP, computer
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DasbootU9607&theme=nord_bright" alt="GitHub stats card" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Overall</strong><br /><br />
+      <img src="https://img.shields.io/badge/Public%20Repos-9-2E3440?style=flat-square" alt="Public repos badge" /><br />
+      <img src="https://img.shields.io/badge/Active%20Repos-9-3B4252?style=flat-square" alt="Active repos badge" /><br />
+      <img src="https://img.shields.io/badge/Total%20Stars-6-4C566A?style=flat-square" alt="Total stars badge" /><br />
+      <img src="https://img.shields.io/badge/Total%20Commits-142-5E81AC?style=flat-square" alt="Total commits badge" /><br />
+      <img src="https://img.shields.io/badge/Contributed%20Repos-10-88C0D0?style=flat-square" alt="Contributed repos badge" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>2026 Activity</strong><br /><br />
+      <img src="https://img.shields.io/badge/Created%20Repos-7-2E3440?style=flat-square" alt="Created repos in 2026 badge" /><br />
+      <img src="https://img.shields.io/badge/Active%20Repos-7-3B4252?style=flat-square" alt="Active repos in 2026 badge" /><br />
+      <img src="https://img.shields.io/badge/Commits-124-4C566A?style=flat-square" alt="Commits in 2026 badge" /><br />
+      <img src="https://img.shields.io/badge/Contributed%20Repos-8-5E81AC?style=flat-square" alt="Contributed repos in 2026 badge" /><br />
+      <img src="https://img.shields.io/badge/Project%20Stars-6-88C0D0?style=flat-square" alt="Project stars in 2026 badge" />
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
