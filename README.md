@@ -1,24 +1,25 @@
 # DasbootU9607
 
+AI systems, quantitative finance, and high-performance computing.
+
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-5E81AC?style=for-the-badge" alt="Open to research and internships badge" />
   <a href="https://github.com/DasbootU9607">
-    <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="GitHub link badge" />
   </a>
   <a href="https://x.com/Morungaro">
-    <img src="https://img.shields.io/badge/X-4C566A?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
+    <img src="https://img.shields.io/badge/X-4C566A?style=flat-square&logo=x&logoColor=white" alt="X link badge" />
   </a>
 </p>
 
-## About
+## Profile
 
-Computer Engineering undergraduate at Nanyang Technological University's College of Computing and Data Science, interested in AI systems, high-performance computing, and quantitative finance. I build practical software across AI agents, RAG systems, Android, backend engineering, and data-driven applications, and I am actively seeking research and internship opportunities in AI, HPC, and quantitative or fintech-oriented engineering.
-
-## GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DasbootU9607&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-</p>
+- Year 1 Computer Engineering undergraduate at the College of Computing and Data Science, Nanyang Technological University.
+- Developed `U2INVEST`, a financial intelligence platform.
+- 2nd Place in the OpenAI Track and Silver Award Winner at Deep Learning Week Hackathon 2026.
+- Participated in the 2025 SAP-NTU Hackathon (Semi-Finalist), 2026 SCDS TechFest Hackathon, and 2026 Jane Street Estimathon.
+- Particularly enthusiastic about algorithm design, Transformer models, NLP, computer vision, CNNs, and RNNs.
+- Also interested in algorithmic trading, quantitative finance, fintech, computer graphics, 3D vision, neural rendering, and GPU/CUDA-related computing.
+- Actively seeking research and internship opportunities in AI, HPC, and quantitative or fintech-oriented engineering.
 
 ## Tech Stack
 
@@ -26,26 +27,17 @@ Computer Engineering undergraduate at Nanyang Technological University's College
   <img src="https://skillicons.dev/icons?i=python,c,cpp,kotlin,html,fastapi,mongodb,mysql,sqlite,docker,git,github,powershell" alt="Tech stack icons" />
 </p>
 
-Python, C, C++, SQL, HTML, Assembly Language, Kotlin, Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, AkShare, ChromaDB, FastAPI, Docker, MongoDB, MySQL, SQLite.
+- Languages: Python, C, C++, SQL, HTML, Assembly Language, Kotlin
+- AI and Data: Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, AkShare, ChromaDB, RAG Development
+- Backend and Tools: FastAPI, Docker, Git, GitHub, PowerShell, MongoDB, MySQL, SQLite
+- Foundations: Data Structures, Algorithms, Object-Oriented Programming, Data Analysis and Visualization, Stock Market Analysis, API Development, Vector Databases
 
-## Project Highlights
+## Selected Work
 
-**HaLoop**  
-DevSecOps safety layer for AI coding agents with risk scoring, approval workflows, and audit trails.  
-Tech: Next.js, React, Tailwind CSS, SQLite, Radix UI, SSE  
-<a href="https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES"><img src="https://img.shields.io/badge/Repository-2E3440?style=flat-square&logo=github&logoColor=white" alt="HaLoop repository badge" /></a>
-
-**PillowTalk**  
-Android digital wellbeing app for reducing unplanned night-time phone use through blocking, focus sessions, and structured evening planning.  
-Tech: Kotlin, Jetpack Compose, Material 3, WorkManager, SharedPreferences, Vico  
-<a href="https://dasbootu9607.github.io/PillowTalk/#/"><img src="https://img.shields.io/badge/Handbook-4C566A?style=flat-square&logo=googlechrome&logoColor=white" alt="PillowTalk handbook badge" /></a>
-
-**U2INVEST**  
-Stock education platform combining structured learning, an AI financial agent, mock trading, and a RAG pipeline for financial documents and data.  
-Tech: Python, LangGraph, DeepSeek-V3, AkShare, ChromaDB, Docker, SQLite  
-<a href="https://github.com/DasbootU9607/U2INVEST-Your-Stocks-You-To-Invest"><img src="https://img.shields.io/badge/Repository-2E3440?style=flat-square&logo=github&logoColor=white" alt="U2INVEST repository badge" /></a>
-
-**ReUnion**  
-Career platform for personalized upskilling roadmaps, job filtering, and application tracking.  
-Tech: FastAPI, Streamlit, LangChain, ChromaDB, RAG  
-<a href="https://github.com/DasbootU9607/SCDS-TechFest-Hackathon-2026-Team094-ReUnion"><img src="https://img.shields.io/badge/Repository-2E3440?style=flat-square&logo=github&logoColor=white" alt="ReUnion repository badge" /></a>
+| Project | Summary | Tech | Links |
+| --- | --- | --- | --- |
+| **U2INVEST** | Financial intelligence platform for structured learning, AI-assisted market analysis, mock trading, and RAG-powered financial knowledge retrieval. | `Python` `LangGraph` `DeepSeek-V3` `AkShare` `ChromaDB` `Docker` `SQLite` | <a href="https://github.com/DasbootU9607/U2INVEST-Your-Stocks-You-To-Invest"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="U2INVEST GitHub badge" /></a> |
+| **HaLoop** | DevSecOps safety layer for AI coding agents with approval workflows, risk scoring, and audit trails. | `Next.js` `React` `Tailwind CSS` `SQLite` `Radix UI` `SSE` | <a href="https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="HaLoop GitHub badge" /></a> |
+| **ReUnion** | Career platform for personalized upskilling roadmaps, job filtering, and application tracking. | `FastAPI` `Streamlit` `LangChain` `ChromaDB` `RAG` | <a href="https://github.com/DasbootU9607/SCDS-TechFest-Hackathon-2026-Team094-ReUnion"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="ReUnion GitHub badge" /></a> |
+| **AIDE** | Multi-agent ecosystem for onboarding, learning, and career support. Semi-Finalist at the SAP-NTU Hackathon 2025. | `Python` `Streamlit` `Telegram` `SentenceTransformers` `Ollama` `ChromaDB` | <a href="https://github.com/DasbootU9607/SAP-NTU-Hackathon-2025-502badgateway"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="AIDE GitHub badge" /></a> |
+| **PillowTalk** | Android digital wellbeing app for reducing unplanned night-time phone use through blocking, focus sessions, and structured evening planning. | `Kotlin` `Jetpack Compose` `Material 3` `WorkManager` `SharedPreferences` `Vico` | <a href="https://dasbootu9607.github.io/PillowTalk/#/"><img src="https://img.shields.io/badge/Site-4C566A?style=flat-square&logo=googlechrome&logoColor=white" alt="PillowTalk site badge" /></a> |
