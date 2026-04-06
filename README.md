@@ -5,26 +5,19 @@
   <a href="https://github.com/DasbootU9607">
     <img src="https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <a href="https://dasbootu9607.github.io/PillowTalk/#/">
-    <img src="https://img.shields.io/badge/PillowTalk-Handbook-4C566A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PillowTalk handbook badge" />
+  <a href="https://x.com/Morungaro">
+    <img src="https://img.shields.io/badge/X-4C566A?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
   </a>
 </p>
 
 ## About
 
-Computer Engineering undergraduate at Nanyang Technological University's College of Computing and Data Science, focused on building intelligent systems at the intersection of AI, high-performance computing, and quantitative finance.
-
-My technical foundation includes Python, C, C++, SQL, HTML, assembly language, data structures and algorithms, data analysis and visualization, AI agent development, basic stock analysis, and database systems across SQL and NoSQL environments.
-
-I am particularly interested in Transformer architectures, NLP, computer vision, CNNs, RNNs, CUDA, GPU programming, parallel computing, computer graphics, visual computing, 3D vision, large-scale AI systems, quantitative finance, fintech, embodied AI, multi-agent reinforcement learning, robotic visual perception, edge AI, and the path toward AGI.
-
-I am actively seeking research and internship opportunities where I can contribute and grow in AI systems, high-performance computing, and quantitative or fintech-oriented engineering.
+Computer Engineering undergraduate at Nanyang Technological University's College of Computing and Data Science, interested in AI systems, high-performance computing, and quantitative finance. I build practical software across AI agents, RAG systems, Android, backend engineering, and data-driven applications, and I am actively seeking research and internship opportunities in AI, HPC, and quantitative or fintech-oriented engineering.
 
 ## GitHub Stats
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=DasbootU9607&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasbootU9607&layout=compact&hide_border=true&theme=nord&langs_count=8&cache_seconds=86400" alt="Top languages" />
 </p>
 
 ## Tech Stack
@@ -33,40 +26,26 @@ I am actively seeking research and internship opportunities where I can contribu
   <img src="https://skillicons.dev/icons?i=python,c,cpp,kotlin,html,fastapi,mongodb,mysql,sqlite,docker,git,github,powershell" alt="Tech stack icons" />
 </p>
 
-**Languages**  
-Python, C, C++, SQL, HTML, Assembly Language, Kotlin
-
-**AI and Data**  
-Pandas, Matplotlib, NumPy, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, RAG Development, AkShare, ChromaDB
-
-**Backend and Tools**  
-FastAPI, Streamlit, Git, GitHub, Docker, PowerShell, MongoDB, MySQL, SQLite
-
-**Core Areas**  
-Data Structures, Algorithms, Object-Oriented Programming, Data Analysis and Visualization, Stock Market Analysis, API Development, Vector Databases
+Python, C, C++, SQL, HTML, Assembly Language, Kotlin, Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, AkShare, ChromaDB, FastAPI, Docker, MongoDB, MySQL, SQLite.
 
 ## Selected Projects
 
 **HaLoop**  
-DevSecOps platform for AI coding agents with risk scoring, approval workflows, and audit trails. Awarded 2nd Place in the OpenAI Track and a Silver Award at Deep Learning Week Hackathon 2026.  
-Stack: Next.js, React, Tailwind CSS, SQLite, Radix UI, React Flow, SSE  
-Links: [Repo Search](https://github.com/search?q=user%3ADasbootU9607+HaLoop&type=repositories)
+DevSecOps safety layer for AI coding agents with risk scoring, approval workflows, and audit trails.  
+Tech: Next.js, React, Tailwind CSS, SQLite, Radix UI, SSE  
+<a href="https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES"><img src="https://img.shields.io/badge/Repository-2E3440?style=flat-square&logo=github&logoColor=white" alt="HaLoop repository badge" /></a>
 
 **PillowTalk**  
 Android digital wellbeing app for reducing unplanned night-time phone use through blocking, focus sessions, and structured evening planning.  
-Stack: Kotlin, Jetpack Compose, Navigation Compose, Material 3, WorkManager, SharedPreferences, Vico  
-Links: [Handbook](https://dasbootu9607.github.io/PillowTalk/#/), [Repo Search](https://github.com/search?q=user%3ADasbootU9607+PillowTalk&type=repositories)
+Tech: Kotlin, Jetpack Compose, Material 3, WorkManager, SharedPreferences, Vico  
+<a href="https://dasbootu9607.github.io/PillowTalk/#/"><img src="https://img.shields.io/badge/Handbook-4C566A?style=flat-square&logo=googlechrome&logoColor=white" alt="PillowTalk handbook badge" /></a>
 
 **U2INVEST**  
 Stock education platform combining structured learning, an AI financial agent, mock trading, and a RAG pipeline for financial documents and data.  
-Stack: Python, LangGraph, DeepSeek-V3, AkShare, ChromaDB, HuggingFace Embeddings, Docker, SQLite  
-Links: [Repo Search](https://github.com/search?q=user%3ADasbootU9607+U2INVEST&type=repositories)
+Tech: Python, LangGraph, DeepSeek-V3, AkShare, ChromaDB, Docker, SQLite  
+<a href="https://github.com/DasbootU9607/U2INVEST-Your-Stocks-You-To-Invest"><img src="https://img.shields.io/badge/Repository-2E3440?style=flat-square&logo=github&logoColor=white" alt="U2INVEST repository badge" /></a>
 
 **ReUnion**  
-Career platform that transforms fragmented employment data into personalized roadmaps, job filtering, and application tracking.  
-Stack: FastAPI, Streamlit, LangChain, ChromaDB, RAG  
-Links: [Repo Search](https://github.com/search?q=user%3ADasbootU9607+ReUnion&type=repositories)
-
-## Interests
-
-AI systems, high-performance computing, CUDA, quantitative finance, algorithmic trading, fintech, embodied AI, multi-agent systems, robotic perception, and AGI-oriented research.
+Career platform for personalized upskilling roadmaps, job filtering, and application tracking.  
+Tech: FastAPI, Streamlit, LangChain, ChromaDB, RAG  
+<a href="https://github.com/DasbootU9607/SCDS-TechFest-Hackathon-2026-Team094-ReUnion"><img src="https://img.shields.io/badge/Repository-2E3440?style=flat-square&logo=github&logoColor=white" alt="ReUnion repository badge" /></a>
