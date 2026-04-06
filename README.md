@@ -1,4 +1,7 @@
 # DasbootU9607
+<p>
+  <img src="./assets/top.gif" width="100%" alt="Top banner animation" />
+</p>
 
 AI/ML(AGI, Infra, MLLM), Quantitative Finance, HPC, CV, and Computer Graphics.
 
