@@ -26,20 +26,26 @@ My current interests include algorithm design, Transformer models, NLP, computer
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Overall</strong><br /><br />
-      <img src="https://img.shields.io/badge/Public%20Repos-9-2E3440?style=flat-square" alt="Public repos badge" /><br />
-      <img src="https://img.shields.io/badge/Active%20Repos-9-3B4252?style=flat-square" alt="Active repos badge" /><br />
-      <img src="https://img.shields.io/badge/Total%20Stars-6-4C566A?style=flat-square" alt="Total stars badge" /><br />
-      <img src="https://img.shields.io/badge/Total%20Commits-142-5E81AC?style=flat-square" alt="Total commits badge" /><br />
-      <img src="https://img.shields.io/badge/Contributed%20Repos-10-88C0D0?style=flat-square" alt="Contributed repos badge" />
+      <strong>Overall</strong><br />
+      <sub>Portfolio snapshot</sub><br /><br />
+      <table>
+        <tr><td>Public repositories</td><td align="right"><code>9</code></td></tr>
+        <tr><td>Active repositories</td><td align="right"><code>9</code></td></tr>
+        <tr><td>Total stars</td><td align="right"><code>6</code></td></tr>
+        <tr><td>Total commits</td><td align="right"><code>142</code></td></tr>
+        <tr><td>Contributed repositories</td><td align="right"><code>10</code></td></tr>
+      </table>
     </td>
     <td valign="top" width="50%">
-      <strong>2026 Activity</strong><br /><br />
-      <img src="https://img.shields.io/badge/Created%20Repos-7-2E3440?style=flat-square" alt="Created repos in 2026 badge" /><br />
-      <img src="https://img.shields.io/badge/Active%20Repos-7-3B4252?style=flat-square" alt="Active repos in 2026 badge" /><br />
-      <img src="https://img.shields.io/badge/Commits-124-4C566A?style=flat-square" alt="Commits in 2026 badge" /><br />
-      <img src="https://img.shields.io/badge/Contributed%20Repos-8-5E81AC?style=flat-square" alt="Contributed repos in 2026 badge" /><br />
-      <img src="https://img.shields.io/badge/Project%20Stars-6-88C0D0?style=flat-square" alt="Project stars in 2026 badge" />
+      <strong>2026 Activity</strong><br />
+      <sub>Year-to-date snapshot</sub><br /><br />
+      <table>
+        <tr><td>Repositories created</td><td align="right"><code>7</code></td></tr>
+        <tr><td>Active repositories</td><td align="right"><code>7</code></td></tr>
+        <tr><td>Commits</td><td align="right"><code>124</code></td></tr>
+        <tr><td>Contributed repositories</td><td align="right"><code>8</code></td></tr>
+        <tr><td>Project stars</td><td align="right"><code>6</code></td></tr>
+      </table>
     </td>
   </tr>
 </table>
