@@ -28,7 +28,7 @@ Computer Engineering undergraduate at Nanyang Technological University's College
 
 Python, C, C++, SQL, HTML, Assembly Language, Kotlin, Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, AkShare, ChromaDB, FastAPI, Docker, MongoDB, MySQL, SQLite.
 
-## Selected Projects
+## Project Highlights
 
 **HaLoop**  
 DevSecOps safety layer for AI coding agents with risk scoring, approval workflows, and audit trails.  
