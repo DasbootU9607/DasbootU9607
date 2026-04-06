@@ -1,6 +1,6 @@
 # DasbootU9607
 
-AI systems, quantitative finance, and high-performance computing.
+AI/ML, Quantitative Finance, HPC, CV, and Computer Graphics.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-88C0D0?style=flat-square" alt="Open to research and internships badge" />
@@ -17,7 +17,7 @@ AI systems, quantitative finance, and high-performance computing.
 
 Year 1 Computer Engineering undergraduate at Nanyang Technological University's College of Computing and Data Science, with a strong interest in AI systems, quantitative finance, and high-performance computing.
 
-I developed `U2INVEST`, a financial intelligence platform, and have participated in Deep Learning Week Hackathon 2026 (`2nd Place - OpenAI Track`, `Silver Award`), SAP-NTU Hackathon 2025 (`Semi-Finalist`), SCDS TechFest Hackathon 2026, and the 2026 Jane Street Estimathon.
+I developed `U2INVEST`, a financial intelligence platform; 'PillowTalk', an Andriod Digital Wellbeing APP, and have participated in Deep Learning Week Hackathon 2026 (`2nd Place - OpenAI Track`, `Silver Award`), SAP-NTU Hackathon 2025 (`Semi-Finalist`), SCDS TechFest Hackathon 2026, and the 2026 Jane Street Estimathon.
 
 My current interests include algorithm design, Transformer models, NLP, computer vision, CNNs, RNNs, algorithmic trading, fintech, computer graphics, 3D vision, neural rendering, and GPU/CUDA-related computing.
 
