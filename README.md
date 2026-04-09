@@ -3,7 +3,7 @@
   <img src="./assets/top.gif" width="100%" alt="Top banner animation" />
 </p>
 
-AI/ML(AGI, Infra, MLLM), Quantitative Finance, HPC, CV, and Computer Graphics.
+### AI/ML(AGI, Infra, MLLM), Quantitative Finance, HPC, CV, and Computer Graphics.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-88C0D0?style=flat-square" alt="Open to research and internships badge" />
