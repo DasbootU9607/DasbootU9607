@@ -1,0 +1,50 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-github-stats.yml
+      - scripts/generate_github_stats.py
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate stats cards
+        env:
+          GH_STATS_TIMEZONE: Asia/Shanghai
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/generate_github_stats.py --username "$GITHUB_USERNAME"
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- assets/stats-overall.svg assets/stats-2026.svg; then
+            echo "No stats changes."
+            exit 0
+          fi
+
+          git add assets/stats-overall.svg assets/stats-2026.svg
+          git commit -m "chore: refresh GitHub stats"
+          git push
