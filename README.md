@@ -18,13 +18,11 @@
 
 ## About
 
-Incoming Computer Engineering Sophomore at Nanyang Technological University's College of Computing and Data Science.
+I am a Computer Engineering Sophomore at Nanyang Technological University’s College of Computing and Data Science.
 
-I developed `U2INVEST`, a financial intelligence platform; built `PillowTalk`, an Andriod Digital Wellbeing APP; participated in Deep Learning Week Hackathon 2026 (`2nd Place - OpenAI Track`, `Silver Award`), SAP-NTU Hackathon 2025 (`Semi-Finalist`), SCDS TechFest Hackathon 2026, and the 2026 Jane Street Estimathon.
+My current research interests include 3D generative models, video generation, world models, and robotics.
 
-My current interests include AI/ML(AGI, Infra, MLLM), Quantitative Finance, HPC, CV, and Computer Graphics.
-
-I am looking forward to research and intership opportunities in the above fields.
+I am actively seeking research and internship opportunities where I can contribute and grow in these domains.
 
 ## GitHub Stats
 
