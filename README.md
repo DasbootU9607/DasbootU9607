@@ -3,7 +3,7 @@
   <img src="./assets/top.gif" width="100%" alt="Top banner animation" />
 </p>
 
-### AI/ML (AGI, Infra, MLLM), Quantitative Finance, Computer Vision and Graphics.
+### 3D Generative Models, Video Generation, World Models, and Robotics.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-88C0D0?style=flat-square" alt="Open to research and internships badge" />
