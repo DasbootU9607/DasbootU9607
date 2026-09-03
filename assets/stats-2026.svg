@@ -12,22 +12,22 @@
     <g transform="translate(0,0)">
       <circle cx="7" cy="7" r="6" class="icon" />
       <text x="22" y="11" class="label">Repos Created</text>
-      <text x="224" y="11" text-anchor="end" class="value">17</text>
+      <text x="224" y="11" text-anchor="end" class="value">16</text>
     </g>
     <g transform="translate(0,26)">
       <circle cx="7" cy="7" r="6" class="icon" />
       <text x="22" y="11" class="label">Active Repos</text>
-      <text x="224" y="11" text-anchor="end" class="value">17</text>
+      <text x="224" y="11" text-anchor="end" class="value">16</text>
     </g>
     <g transform="translate(0,52)">
       <circle cx="7" cy="7" r="6" class="icon" />
       <text x="22" y="11" class="label">Commits</text>
-      <text x="224" y="11" text-anchor="end" class="value">368</text>
+      <text x="224" y="11" text-anchor="end" class="value">343</text>
     </g>
     <g transform="translate(0,78)">
       <circle cx="7" cy="7" r="6" class="icon" />
       <text x="22" y="11" class="label">Contributed Repos</text>
-      <text x="224" y="11" text-anchor="end" class="value">14</text>
+      <text x="224" y="11" text-anchor="end" class="value">13</text>
     </g>
     <g transform="translate(0,104)">
       <circle cx="7" cy="7" r="6" class="icon" />
