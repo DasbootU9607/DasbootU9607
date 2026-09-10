@@ -1,6 +1,6 @@
 <h1 align="center">DasbootU9607</h1>
 <p>
-  <img src="./assets/top.gif" width="100%" alt="Top banner animation" />
+  <img src="./assets/top.gif" width="50%" alt="Top banner animation" />
 </p>
 
 ### 3D Generative Models, Video Generation, World Models, and Robotics.
@@ -41,13 +41,3 @@ I am actively seeking research and internship opportunities where I can contribu
 - AI and Data: Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, AkShare, ChromaDB, RAG Development
 - Backend and Tools: FastAPI, Docker, Git, GitHub, PowerShell, MongoDB, MySQL, SQLite
 - Foundations: Data Structures, Algorithms, Object-Oriented Programming, Data Analysis and Visualization, Stock Market Analysis, API Development, Vector Databases
-
-## Project Highlights
-
-| Project | Summary | Tech | Links |
-| --- | --- | --- | --- |
-| **HaLoop** | DevSecOps safety layer for AI coding agents with approval workflows, risk scoring, and audit trails. Deep Learning Week Hackathon 2026, `2nd Place - OpenAI Track`, `Silver Award`. | `Next.js` `React` `Tailwind CSS` `SQLite` `Radix UI` `SSE` | <a href="https://github.com/DasbootU9607/Deep-Learning-Week-Hackathon-2026-HaLoop-Team-CEEES"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="HaLoop GitHub badge" /></a> |
-| **PillowTalk** | Android digital wellbeing app for reducing unplanned night-time phone use through blocking, focus sessions, and structured evening planning. | `Kotlin` `Jetpack Compose` `Material 3` `WorkManager` `SharedPreferences` `Vico` | <a href="https://dasbootu9607.github.io/PillowTalk/#/"><img src="https://img.shields.io/badge/Site-4C566A?style=flat-square&logo=googlechrome&logoColor=white" alt="PillowTalk site badge" /></a> |
-| **U2INVEST** | Financial intelligence platform for structured learning, AI-assisted market analysis, mock trading, and RAG-powered financial knowledge retrieval. | `Python` `LangGraph` `DeepSeek-V3` `AkShare` `ChromaDB` `Docker` `SQLite` | <a href="https://dasbootu9607.github.io/U2INVEST-Your-Stocks-You-To-Invest/?cb=37b5edd"><img src="https://img.shields.io/badge/Site-4C566A?style=flat-square&logo=googlechrome&logoColor=white" alt="U2INVEST website badge" /></a> |
-| **ReUnion** | Career platform for personalized upskilling roadmaps, job filtering, and application tracking. SCDS TechFest Hackathon 2026. | `FastAPI` `Streamlit` `LangChain` `ChromaDB` `RAG` | <a href="https://github.com/BinaryOutlook/26-SCDS-Techfest"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="ReUnion GitHub badge" /></a> |
-| **AIDE** | Multi-agent ecosystem for onboarding, learning, and career support. SAP-NTU Hackathon 2025, `Semi-Finalist`. | `Python` `Streamlit` `Telegram` `SentenceTransformers` `Ollama` `ChromaDB` | <a href="https://github.com/DasbootU9607/SAP-NTU-Hackathon-2025-502badgateway"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=white" alt="AIDE GitHub badge" /></a> |
