@@ -1,6 +1,6 @@
 <h1 align="center">DasbootU9607</h1>
 
-### 3D Generative Models, Video Generation, World Models, and Robotics.
+### Video Generation, World Models, and Robot Learning.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-88C0D0?style=flat-square" alt="Open to research and internships badge" />
@@ -17,7 +17,7 @@
 
 I am a Computer Engineering Sophomore at Nanyang Technological University’s College of Computing and Data Science.
 
-My current research interests include 3D generative models, video generation, world models, and robotics.
+My current research interests include video generation, world models, and robot learning.
 
 I am actively seeking research and internship opportunities where I can contribute and grow in these domains.
 
@@ -31,10 +31,10 @@ I am actively seeking research and internship opportunities where I can contribu
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,kotlin,html,fastapi,mongodb,mysql,sqlite,docker,git,github,powershell" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,html,fastapi,mongodb,mysql,sqlite,docker,git,github,powershell" alt="Tech stack icons" />
 </p>
 
-- Languages: Python, C, C++, SQL, HTML, Assembly Language, Kotlin
-- AI and Data: Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, DeepSeek V3/R1, HuggingFace Embeddings, AkShare, ChromaDB, RAG Development
+- Languages: Python, C, C++, Java, SQL, HTML, Assembly Language, Kotlin
+- AI and Data: Pytorch, Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, HuggingFace Embeddings, AkShare, ChromaDB, RAG Development
 - Backend and Tools: FastAPI, Docker, Git, GitHub, PowerShell, MongoDB, MySQL, SQLite
-- Foundations: Data Structures, Algorithms, Object-Oriented Programming, Data Analysis and Visualization, Stock Market Analysis, API Development, Vector Databases
+- Foundations: Software Engineering and Applied AI Systems
