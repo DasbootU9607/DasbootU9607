@@ -31,10 +31,10 @@ I am actively seeking research and internship opportunities where I can contribu
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,PyTorch,html,fastapi,mongodb,mysql,sqlite,docker,git,github,powershell" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,linux,mongodb,mysql,docker,git,powershell" alt="Tech stack icons" />
 </p>
 
 - Languages: Python, C, C++, Java, SQL, HTML, Assembly Language
 - AI and Data: Pytorch, Pandas, NumPy, Matplotlib, Streamlit, LangChain, LangGraph, Ollama, HuggingFace Embeddings, AkShare, ChromaDB, RAG Development
-- Backend and Tools: FastAPI, Docker, Git, GitHub, PowerShell, MongoDB, MySQL, SQLite
-- Foundations: Software Engineering and Applied AI Systems
+- Backend and Tools: Linux, FastAPI, Docker, Git, GitHub, PowerShell, MongoDB, MySQL, SQLite
+- Foundations: Software Engineering, Algorithms Analysis and Design, Applied AI Systems
