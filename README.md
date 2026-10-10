@@ -19,7 +19,7 @@ I am a Computer Engineering Sophomore at Nanyang Technological University’s Co
 
 My current research interests include video generation, world models, and robot learning.
 
-I am actively seeking research and internship opportunities where I can contribute and grow in these domains.
+I want to explore how embodied agents can understand and reason about the physical world, learn from interaction, and acquire generalizable skills for complex real-world tasks.
 
 ## GitHub Stats
 
